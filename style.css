@@ -43,7 +43,7 @@ svg{
 
 circle{ 
     fill: none;
-    stroke:#1d6ce2;
+    stroke:#45dc81;
     stroke-width: 3px;
     stroke-linecap: round;
     animation: dash 2.5s ease-in-out infinite;
